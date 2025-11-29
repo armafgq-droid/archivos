@@ -6,7 +6,7 @@
     "fin": "18:00",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Prueba inmediata",
-    "inmediato": true
+    "inmediato": false
   },
   {
     "id": 9002,

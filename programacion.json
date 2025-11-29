@@ -2,8 +2,8 @@
   {
     "id": 9001,
     "nombre": "Programa de prueba",
-    "inicio": "23:40",
-    "fin": "18:00",
+    "inicio": "14:40",
+    "inicio": "14:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Prueba inmediata",
     "inmediato": false
@@ -11,8 +11,8 @@
   {
     "id": 9002,
     "nombre": "Noticiero TVP",
-    "inicio": "23:41",
-    "fin": "18:27",
+    "inicio": "14:45",
+    "inicio": "14:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Noticiero en vivo",
     "inmediato": false
@@ -20,8 +20,8 @@
   {
     "id": 9003,
     "nombre": "Actualidad Express",
-    "inicio": "23:45",
-    "fin": "24:00",
+    "inicio": "14:50",
+    "inicio": "14:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Resumen rápido",
     "inmediato": false
@@ -29,8 +29,8 @@
   {
     "id": 9004,
     "nombre": "Mini Reportaje",
-    "inicio": "08:41",
-    "fin": "09:58",
+    "inicio": "14:55",
+    "inicio": "14:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Reporte corto",
     "inmediato": false

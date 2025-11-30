@@ -1,14 +1,15 @@
 [
     {
-        "id": 9999,
-        "nombre": "Prueba Commit",
-        "inicio": "00:00",
-        "fin": "00:01",
+        "id": 69327,
+        "nombre": "24",
+        "inicio": "12:12",
+        "fin": "12:12",
         "dias": [
-            "lunes"
+            "lunes",
+            "viernes"
         ],
-        "descripcion": "Esto es una prueba",
-        "imagen": "",
-        "inmediato": false
+        "descripcion": "asdasd",
+        "imagen": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTiX_i0gmHaZqkuy15OZ4X44p1_jMT21ke80w&s",
+        "inmediato": true
     }
 ]

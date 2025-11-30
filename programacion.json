@@ -16,5 +16,20 @@
         "descripcion": "que te inporta xd",
         "imagen": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTiX_i0gmHaZqkuy15OZ4X44p1_jMT21ke80w&s",
         "inmediato": false
-    }
+    },
+    [
+        {
+            "id": 68093,
+            "nombre": "pero la queria tanto",
+            "inicio": "04:42",
+            "fin": "23:02",
+            "dias": [
+                "lunes",
+                "martes"
+            ],
+            "descripcion": "dia 2 ",
+            "imagen": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTiX_i0gmHaZqkuy15OZ4X44p1_jMT21ke80w&s",
+            "inmediato": true
+        }
+    ]
 ]

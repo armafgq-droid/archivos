@@ -2,7 +2,7 @@
   {
     "id": 9101,
     "nombre": "Despertar Informativo",
-    "inicio": "06:00",
+    "inicio": "00:55",
     "fin": "06:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
@@ -12,7 +12,7 @@
   {
     "id": 9102,
     "nombre": "Café y Cultura",
-    "inicio": "06:30",
+    "inicio": "01:00",
     "fin": "06:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Un repaso de arte, literatura y curiosidades mientras disfrutas tu café.",

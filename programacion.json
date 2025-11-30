@@ -2,7 +2,7 @@
   {
     "id": 9101,
     "nombre": "Despertar Informativo",
-    "inicio": "00:55",
+    "inicio": "20:40",
     "fin": "06:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",

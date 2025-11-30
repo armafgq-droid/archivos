@@ -1,15 +1,20 @@
 [
     {
-        "id": 69327,
-        "nombre": "24",
+        "id": 91375,
+        "nombre": "el peep ",
         "inicio": "12:12",
         "fin": "12:12",
         "dias": [
             "lunes",
-            "viernes"
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes",
+            "sábado",
+            "domingo"
         ],
-        "descripcion": "asdasd",
+        "descripcion": "que te inporta xd",
         "imagen": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTiX_i0gmHaZqkuy15OZ4X44p1_jMT21ke80w&s",
-        "inmediato": true
+        "inmediato": false
     }
 ]

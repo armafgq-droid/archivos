@@ -1,8 +1,8 @@
 [
   {
     "id": 9101,
-    "nombre": "Despertar Informativo",
-    "inicio": "20:45",
+    "nombre": "Despertar educativo",
+    "inicio": "20:50",
     "fin": "06:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",

@@ -2,12 +2,12 @@
   {
     "id": 9101,
     "nombre": "Despertar Informativo",
-    "inicio": "20:40",
+    "inicio": "20:45",
     "fin": "06:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": true
+    "inmediato": false
   },
   {
     "id": 9102,

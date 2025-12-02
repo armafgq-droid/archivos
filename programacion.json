@@ -2,28 +2,18 @@
   {
     "id": 9101,
     "nombre": "Despertar educativo",
-    "inicio": "20:50",
-    "fin": "06:29",
+    "inicio": "12:00",
+    "fin": "12:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": true
   },
   {
-    "id": 9102,
-    "nombre": "Café y Cultura",
-    "inicio": "01:00",
-    "fin": "06:59",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
-    "descripcion": "Un repaso de arte, literatura y curiosidades mientras disfrutas tu café.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
     "id": 9103,
     "nombre": "Mañanas Deportivas",
-    "inicio": "07:00",
-    "fin": "07:29",
+    "inicio": "12:30",
+    "fin": "12:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Resumen de noticias deportivas, resultados y entrevistas exclusivas.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
@@ -32,8 +22,8 @@
   {
     "id": 9104,
     "nombre": "Economía al Minuto",
-    "inicio": "07:30",
-    "fin": "07:59",
+    "inicio": "13:00",
+    "fin": "13:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Actualización de mercados, bolsas y tendencias financieras internacionales.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
@@ -42,8 +32,8 @@
   {
     "id": 9105,
     "nombre": "Recetas y Vida Saludable",
-    "inicio": "08:00",
-    "fin": "08:29",
+    "inicio": "13:30",
+    "fin": "13:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Tips de nutrición, recetas rápidas y estilo de vida saludable.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
@@ -52,8 +42,8 @@
   {
     "id": 9106,
     "nombre": "Tendencias y Tecnología",
-    "inicio": "08:30",
-    "fin": "08:59",
+    "inicio": "14:00",
+    "fin": "14:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Novedades del mundo tech, gadgets y aplicaciones que están revolucionando la vida diaria.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
@@ -62,8 +52,8 @@
   {
     "id": 9107,
     "nombre": "Misterios del Mundo",
-    "inicio": "09:00",
-    "fin": "09:29",
+    "inicio": "14:30",
+    "fin": "14:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Explora historias sorprendentes, enigmas y curiosidades del planeta.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
@@ -72,10 +62,100 @@
   {
     "id": 9108,
     "nombre": "Planeta Ciencia",
-    "inicio": "09:30",
-    "fin": "09:59",
+    "inicio": "15:00",
+    "fin": "15:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Divulgación científica y experimentos sorprendentes.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9101,
+    "nombre": "Despertar educativo",
+    "inicio": "15:30",
+    "fin": "15:59",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": true
+  },
+  {
+    "id": 9103,
+    "nombre": "Mañanas Deportivas",
+    "inicio": "16:00",
+    "fin": "16:29",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Resumen de noticias deportivas, resultados y entrevistas exclusivas.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9104,
+    "nombre": "Economía al Minuto",
+    "inicio": "16:30",
+    "fin": "16:59",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Actualización de mercados, bolsas y tendencias financieras internacionales.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9105,
+    "nombre": "Recetas y Vida Saludable",
+    "inicio": "17:00",
+    "fin": "17:29",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Tips de nutrición, recetas rápidas y estilo de vida saludable.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9106,
+    "nombre": "Tendencias y Tecnología",
+    "inicio": "17:30",
+    "fin": "17:59",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Novedades del mundo tech, gadgets y aplicaciones que están revolucionando la vida diaria.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9107,
+    "nombre": "Misterios del Mundo",
+    "inicio": "18:00",
+    "fin": "18:29",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Explora historias sorprendentes, enigmas y curiosidades del planeta.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9108,
+    "nombre": "Planeta Ciencia",
+    "inicio": "18:30",
+    "fin": "18:59",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Divulgación científica y experimentos sorprendentes.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9101,
+    "nombre": "Despertar educativo",
+    "inicio": "19:00",
+    "fin": "19:29",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": true
+  },
+  {
+    "id": 9103,
+    "nombre": "Mañanas Deportivas",
+    "inicio": "19:30",
+    "fin": "19:59",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Resumen de noticias deportivas, resultados y entrevistas exclusivas.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   }

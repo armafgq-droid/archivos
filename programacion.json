@@ -52,7 +52,7 @@
   {
     "id": 9107,
     "nombre": "Misterios del Mundo",
-    "inicio": "14:25",
+    "inicio": "14:35",
     "fin": "14:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Explora historias sorprendentes, enigmas y curiosidades del planeta.",
@@ -62,7 +62,7 @@
   {
     "id": 9108,
     "nombre": "Planeta Ciencia",
-    "inicio": "15:00",
+    "inicio": "15:30",
     "fin": "15:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Divulgación científica y experimentos sorprendentes.",

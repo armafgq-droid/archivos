@@ -2,7 +2,7 @@
   {
     "id": 9101,
     "nombre": "Despertar educativo",
-    "inicio": "12:00",
+    "inicio": "17:30",
     "fin": "12:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
@@ -12,7 +12,7 @@
   {
     "id": 9103,
     "nombre": "Mañanas Deportivas",
-    "inicio": "12:30",
+    "inicio": "17:35",
     "fin": "12:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Resumen de noticias deportivas, resultados y entrevistas exclusivas.",
@@ -22,7 +22,7 @@
   {
     "id": 9104,
     "nombre": "Economía al Minuto",
-    "inicio": "13:00",
+    "inicio": "17:40",
     "fin": "13:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Actualización de mercados, bolsas y tendencias financieras internacionales.",
@@ -32,7 +32,7 @@
   {
     "id": 9105,
     "nombre": "Recetas y Vida Saludable",
-    "inicio": "13:30",
+    "inicio": "17:45",
     "fin": "13:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Tips de nutrición, recetas rápidas y estilo de vida saludable.",
@@ -42,7 +42,7 @@
   {
     "id": 9106,
     "nombre": "Tendencias y Tecnología",
-    "inicio": "14:20",
+    "inicio": "17:50",
     "fin": "14:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Novedades del mundo tech, gadgets y aplicaciones que están revolucionando la vida diaria.",

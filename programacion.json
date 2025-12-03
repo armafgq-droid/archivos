@@ -158,5 +158,85 @@
     "descripcion": "Resumen de noticias deportivas, resultados y entrevistas exclusivas.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
+  }, 
+  {
+    "id": 9102,
+    "nombre": "Programa 15:15",
+    "inicio": "15:15",
+    "fin": "15:19",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9103,
+    "nombre": "Programa 15:20",
+    "inicio": "15:20",
+    "fin": "15:24",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9104,
+    "nombre": "Programa 15:25",
+    "inicio": "15:25",
+    "fin": "15:29",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+   {
+    "id": 9105,
+    "nombre": "Programa 15:30",
+    "inicio": "15:30",
+    "fin": "15:34",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9106,
+    "nombre": "Programa 15:35",
+    "inicio": "15:35",
+    "fin": "15:39",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9107,
+    "nombre": "Programa 15:40",
+    "inicio": "15:40",
+    "fin": "15:44",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9108,
+    "nombre": "Programa 15:45",
+    "inicio": "15:45",
+    "fin": "15:49",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9109,
+    "nombre": "Programa 15:50",
+    "inicio": "15:50",
+    "fin": "15:54",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   }
 ]

@@ -7,7 +7,7 @@
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": true
+    "inmediato": false
   },
   {
     "id": 9103,
@@ -42,7 +42,7 @@
   {
     "id": 9106,
     "nombre": "Tendencias y Tecnología",
-    "inicio": "14:00",
+    "inicio": "14:20",
     "fin": "14:29",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Novedades del mundo tech, gadgets y aplicaciones que están revolucionando la vida diaria.",
@@ -52,7 +52,7 @@
   {
     "id": 9107,
     "nombre": "Misterios del Mundo",
-    "inicio": "14:30",
+    "inicio": "14:25",
     "fin": "14:59",
     "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Explora historias sorprendentes, enigmas y curiosidades del planeta.",

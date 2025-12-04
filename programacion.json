@@ -78,5 +78,105 @@
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
+  },
+    {
+    "id": 9110,
+    "nombre": "Mini Noticias",
+    "inicio": "19:40",
+    "fin": "19:45",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Breve actualización informativa del día.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9111,
+    "nombre": "Clima Exprés",
+    "inicio": "19:45",
+    "fin": "19:50",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Pronóstico del tiempo claro y rápido.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9112,
+    "nombre": "Dato Curioso",
+    "inicio": "19:50",
+    "fin": "19:55",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Un dato interesante del mundo cada día.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9113,
+    "nombre": "Agenda Cultural",
+    "inicio": "19:55",
+    "fin": "20:00",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Eventos culturales destacados de la semana.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9114,
+    "nombre": "Tecnominuto",
+    "inicio": "20:00",
+    "fin": "20:05",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Resumen veloz de novedades tecnológicas.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9115,
+    "nombre": "Salud en 1 Minuto",
+    "inicio": "20:05",
+    "fin": "20:10",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Consejos rápidos para una vida saludable.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9116,
+    "nombre": "Rincón Animal",
+    "inicio": "20:10",
+    "fin": "20:15",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Curiosidades y datos sobre animales.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9117,
+    "nombre": "Historia Rápida",
+    "inicio": "20:15",
+    "fin": "20:20",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Un fragmento histórico explicado en pocos minutos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9118,
+    "nombre": "Cine Flash",
+    "inicio": "20:20",
+    "fin": "20:25",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Recomendaciones rápidas de películas y estrenos.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
+  },
+  {
+    "id": 9119,
+    "nombre": "Tips del Hogar",
+    "inicio": "20:25",
+    "fin": "20:30",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Consejos prácticos para la casa y el día a día.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   }
 ]

@@ -104,7 +104,7 @@
     "nombre": "Dato Curioso",
     "inicio": "19:50",
     "fin": "19:55",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes"],
     "descripcion": "Un dato interesante del mundo cada día.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -168,6 +168,7 @@
     "descripcion": "Recomendaciones rápidas de películas y estrenos.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
+    "
   },
   {
     "id": 9119,

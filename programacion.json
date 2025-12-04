@@ -1,305 +1,120 @@
 [
   {
     "id": 9102,
-    "nombre": "progrma mañanero",
-    "inicio": "23:50",
-    "fin": "23:55",
-    "dias": [
-      "lunes",
-      "martes",
-      "jueves",
-      "viernes",
-      "sábado",
-      "miércoles",
-      "domingo"
-    ],
+    "nombre": "Noticias Matutinas",
+    "inicio": "10:00",
+    "fin": "10:05",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
     "id": 9103,
-    "nombre": "Programa 15:20",
-    "inicio": "19:05",
-    "fin": "19:10",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
-    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "nombre": "Actualidad Express",
+    "inicio": "10:05",
+    "fin": "10:10",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
+    "descripcion": "Resumen rápido de noticias del día.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
     "id": 9104,
-    "nombre": "Programa 15:25",
-    "inicio": "19:10",
-    "fin": "19:15",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
-    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "nombre": "Mini Reportajes",
+    "inicio": "10:10",
+    "fin": "10:15",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
+    "descripcion": "Noticias y reportajes destacados.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
     "id": 9105,
-    "nombre": "Programa 15:30",
-    "inicio": "19:15",
-    "fin": "19:20",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
-    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "nombre": "Clima Rápido",
+    "inicio": "10:15",
+    "fin": "10:20",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
+    "descripcion": "Pronóstico del tiempo de manera breve.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
     "id": 9106,
-    "nombre": "Programa 15:35",
-    "inicio": "19:20",
-    "fin": "19:25",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
-    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9107,
-    "nombre": "Programa 15:40",
-    "inicio": "19:25",
-    "fin": "19:30",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado",
-      "domingo"
-    ],
-    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9108,
-    "nombre": "Programa 15:45",
-    "inicio": "19:30",
-    "fin": "19:35",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
-    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9109,
-    "nombre": "Programa 15:50",
-    "inicio": "19:35",
-    "fin": "19:40",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
-    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9110,
-    "nombre": "Mini Noticias",
-    "inicio": "19:40",
-    "fin": "19:45",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
-    "descripcion": "Breve actualización informativa del día.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9111,
-    "nombre": "Clima Exprés",
-    "inicio": "19:45",
-    "fin": "19:50",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
-    "descripcion": "Pronóstico del tiempo claro y rápido.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9112,
     "nombre": "Dato Curioso",
-    "inicio": "19:50",
-    "fin": "19:55",
-    "dias": [
-      "lunes"
-    ],
+    "inicio": "10:20",
+    "fin": "10:25",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Un dato interesante del mundo cada día.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
-    "id": 9113,
+    "id": 9107,
     "nombre": "Agenda Cultural",
-    "inicio": "19:55",
-    "fin": "20:00",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
+    "inicio": "10:25",
+    "fin": "10:30",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Eventos culturales destacados de la semana.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
-    "id": 9114,
-    "nombre": "Tecnominuto",
-    "inicio": "20:00",
-    "fin": "20:05",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado",
-      "domingo"
-    ],
+    "id": 9108,
+    "nombre": "Tecnología en 5",
+    "inicio": "10:30",
+    "fin": "10:35",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Resumen veloz de novedades tecnológicas.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
-    "id": 9115,
-    "nombre": "Salud en 1 Minuto",
-    "inicio": "20:05",
-    "fin": "20:10",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
+    "id": 9109,
+    "nombre": "Salud Exprés",
+    "inicio": "10:35",
+    "fin": "10:40",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Consejos rápidos para una vida saludable.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
-    "id": 9116,
+    "id": 9110,
     "nombre": "Rincón Animal",
-    "inicio": "20:10",
-    "fin": "20:15",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
+    "inicio": "10:40",
+    "fin": "10:45",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Curiosidades y datos sobre animales.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
-    "id": 9117,
-    "nombre": "Historia Rápida",
-    "inicio": "20:15",
-    "fin": "20:20",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
+    "id": 9111,
+    "nombre": "Historia Breve",
+    "inicio": "10:45",
+    "fin": "10:50",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Un fragmento histórico explicado en pocos minutos.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
-    "id": 9118,
-    "nombre": "Cine Flash",
-    "inicio": "20:20",
-    "fin": "20:25",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado"
-    ],
+    "id": 9112,
+    "nombre": "Cine Rápido",
+    "inicio": "10:50",
+    "fin": "10:55",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Recomendaciones rápidas de películas y estrenos.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
   },
   {
-    "id": 9119,
+    "id": 9113,
     "nombre": "Tips del Hogar",
-    "inicio": "20:25",
-    "fin": "20:30",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado",
-      "domingo"
-    ],
+    "inicio": "10:55",
+    "fin": "11:00",
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
     "descripcion": "Consejos prácticos para la casa y el día a día.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false

@@ -1,170 +1,82 @@
-  [
+[
   {
-    "id": 9101,
-    "nombre": "Despertar educativo",
-    "inicio": "11:00",
-    "fin": "11:30",
-    ...
-  },
-  {
-    "id": 9103,
-    "nombre": "Mañanas Deportivas",
-    "inicio": "11:30",
-    "fin": "12:00",
-    ...
-  },
-  {
-    "id": 9104,
-    "nombre": "Economía al Minuto",
-    "inicio": "12:00",
-    "fin": "12:30",
-    ...
-  },
-  {
-    "id": 9105,
-    "nombre": "Recetas y Vida Saludable",
-    "inicio": "12:30",
-    "fin": "13:00",
-    ...
-  },
-  {
-    "id": 9106,
-    "nombre": "Tendencias y Tecnología",
-    "inicio": "13:00",
-    "fin": "13:30",
-    ...
-  },
-  {
-    "id": 9107,
-    "nombre": "Misterios del Mundo",
-    "inicio": "13:30",
-    "fin": "14:00",
-    ...
-  },
-  {
-    "id": 9108,
-    "nombre": "Planeta Ciencia",
-    "inicio": "14:00",
-    "fin": "14:30",
-    ...
-  },
-  {
-    "id": 9101,
-    "nombre": "Despertar educativo",
-    "inicio": "14:30",
-    "fin": "15:00",
-    ...
-  },
-  {
-    "id": 9103,
-    "nombre": "Mañanas Deportivas",
-    "inicio": "15:00",
-    "fin": "15:30",
-    ...
-  },
-  {
-    "id": 9104,
-    "nombre": "Economía al Minuto",
-    "inicio": "15:30",
-    "fin": "16:00",
-    ...
-  },
-  {
-    "id": 9105,
-    "nombre": "Recetas y Vida Saludable",
-    "inicio": "16:00",
-    "fin": "16:30",
-    ...
-  },
-  {
-    "id": 9106,
-    "nombre": "Tendencias y Tecnología",
-    "inicio": "16:30",
-    "fin": "17:00",
-    ...
-  },
-  {
-    "id": 9107,
-    "nombre": "Misterios del Mundo",
-    "inicio": "17:00",
-    "fin": "17:30",
-    ...
-  },
-  {
-    "id": 9108,
-    "nombre": "Planeta Ciencia",
-    "inicio": "17:30",
-    "fin": "18:00",
-    ...
-  },
-  {
-    "id": 9101,
-    "nombre": "Despertar educativo",
-    "inicio": "18:00",
-    "fin": "18:30",
-    ...
-  },
-  {
-    "id": 9103,
-    "nombre": "Mañanas Deportivas",
-    "inicio": "18:30",
-    "fin": "19:00",
-    ...
-  }
-,{
     "id": 9102,
     "nombre": "Programa 15:15",
     "inicio": "19:00",
     "fin": "19:05",
-    ...
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   },
   {
     "id": 9103,
     "nombre": "Programa 15:20",
     "inicio": "19:05",
     "fin": "19:10",
-    ...
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   },
   {
     "id": 9104,
     "nombre": "Programa 15:25",
     "inicio": "19:10",
     "fin": "19:15",
-    ...
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   },
   {
     "id": 9105,
     "nombre": "Programa 15:30",
     "inicio": "19:15",
     "fin": "19:20",
-    ...
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   },
   {
     "id": 9106,
     "nombre": "Programa 15:35",
     "inicio": "19:20",
     "fin": "19:25",
-    ...
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   },
   {
     "id": 9107,
     "nombre": "Programa 15:40",
     "inicio": "19:25",
     "fin": "19:30",
-    ...
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   },
   {
     "id": 9108,
     "nombre": "Programa 15:45",
     "inicio": "19:30",
     "fin": "19:35",
-    ...
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   },
   {
     "id": 9109,
     "nombre": "Programa 15:50",
     "inicio": "19:35",
     "fin": "19:40",
-    ...
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+    "inmediato": false
   }
 ]

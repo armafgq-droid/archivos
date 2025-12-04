@@ -4,7 +4,7 @@
     "nombre": "Programa 15:15",
     "inicio": "19:00",
     "fin": "19:05",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -14,7 +14,7 @@
     "nombre": "Programa 15:20",
     "inicio": "19:05",
     "fin": "19:10",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -24,7 +24,7 @@
     "nombre": "Programa 15:25",
     "inicio": "19:10",
     "fin": "19:15",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -34,7 +34,7 @@
     "nombre": "Programa 15:30",
     "inicio": "19:15",
     "fin": "19:20",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -44,7 +44,7 @@
     "nombre": "Programa 15:35",
     "inicio": "19:20",
     "fin": "19:25",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -64,7 +64,7 @@
     "nombre": "Programa 15:45",
     "inicio": "19:30",
     "fin": "19:35",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -74,7 +74,7 @@
     "nombre": "Programa 15:50",
     "inicio": "19:35",
     "fin": "19:40",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Noticias y reportajes para empezar el día bien informado.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -84,7 +84,7 @@
     "nombre": "Mini Noticias",
     "inicio": "19:40",
     "fin": "19:45",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Breve actualización informativa del día.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -94,7 +94,7 @@
     "nombre": "Clima Exprés",
     "inicio": "19:45",
     "fin": "19:50",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Pronóstico del tiempo claro y rápido.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -114,7 +114,7 @@
     "nombre": "Agenda Cultural",
     "inicio": "19:55",
     "fin": "20:00",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Eventos culturales destacados de la semana.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -134,7 +134,7 @@
     "nombre": "Salud en 1 Minuto",
     "inicio": "20:05",
     "fin": "20:10",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Consejos rápidos para una vida saludable.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -144,7 +144,7 @@
     "nombre": "Rincón Animal",
     "inicio": "20:10",
     "fin": "20:15",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Curiosidades y datos sobre animales.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -154,7 +154,7 @@
     "nombre": "Historia Rápida",
     "inicio": "20:15",
     "fin": "20:20",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
     "descripcion": "Un fragmento histórico explicado en pocos minutos.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false
@@ -164,7 +164,7 @@
     "nombre": "Cine Flash",
     "inicio": "20:20",
     "fin": "20:25",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado",
     "descripcion": "Recomendaciones rápidas de películas y estrenos.",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
     "inmediato": false

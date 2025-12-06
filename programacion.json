@@ -9,115 +9,86 @@
   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
   "inmediato": false
 },
+{
+  "id": 9103,
+  "nombre": "🔴 EN VIVO – Pachatusan Noticias – Edición Nocturna",
+  "inicio": "18:00",
+  "fin": "20:00",
+  "dias": ["lunes","martes","miércoles","jueves","viernes"],
+  "descripcion": "Sintoniza nuestra edición nocturna de Pachatusan Noticias, un espacio informativo con el análisis más destacado del día, reportes actualizados y una visión completa de los acontecimientos más relevantes.\n\nCon la conducción de:\n🎙 Saúl Mamani\n🎙 Olmer Camilo Quispe",
+  "imagen": "https://example.com/imagen-nocturna.jpg",
+  "inmediato": false
+},
 
-  {
-    "id": 9103,
-    "nombre": "Actualidad Express",
-    "inicio": "10:05",
-    "fin": "10:10",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
-    "descripcion": "Resumen rápido de noticias del día.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9104,
-    "nombre": "Mini Reportajes",
-    "inicio": "10:10",
-    "fin": "10:15",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
-    "descripcion": "Noticias y reportajes destacados.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9105,
-    "nombre": "Clima Rápido",
-    "inicio": "10:15",
-    "fin": "10:20",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
-    "descripcion": "Pronóstico del tiempo de manera breve.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9106,
-    "nombre": "Dato Curioso",
-    "inicio": "10:20",
-    "fin": "10:25",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
-    "descripcion": "Un dato interesante del mundo cada día.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9107,
-    "nombre": "Agenda Cultural",
-    "inicio": "10:25",
-    "fin": "10:30",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
-    "descripcion": "Eventos culturales destacados de la semana.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9108,
-    "nombre": "Tecnología en 5",
-    "inicio": "10:30",
-    "fin": "10:35",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
-    "descripcion": "Resumen veloz de novedades tecnológicas.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9109,
-    "nombre": "Salud Exprés",
-    "inicio": "10:35",
-    "fin": "10:40",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
-    "descripcion": "Consejos rápidos para una vida saludable.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9110,
-    "nombre": "Rincón Animal",
-    "inicio": "10:40",
-    "fin": "10:45",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
-    "descripcion": "Curiosidades y datos sobre animales.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9111,
-    "nombre": "Historia Breve",
-    "inicio": "10:45",
-    "fin": "10:50",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
-    "descripcion": "Un fragmento histórico explicado en pocos minutos.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9112,
-    "nombre": "Cine Rápido",
-    "inicio": "10:50",
-    "fin": "10:55",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado"],
-    "descripcion": "Recomendaciones rápidas de películas y estrenos.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
-  {
-    "id": 9113,
-    "nombre": "Tips del Hogar",
-    "inicio": "10:55",
-    "fin": "11:00",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
-    "descripcion": "Consejos prácticos para la casa y el día a día.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  }
+{
+  "id": 9104,
+  "nombre": "🔴 EN VIVO – Pachatusan Noticias – Edición del Mediodía",
+  "inicio": "12:00",
+  "fin": "14:00",
+  "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
+  "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
+  "imagen": "https://example.com/imagen-mediodia.jpg",
+  "inmediato": false
+},
+{
+  "id": 9105,
+  "nombre": "🟢 EN VIVO – Pachatusan Deportes",
+  "inicio": "18:00",
+  "fin": "19:30",
+  "dias": ["lunes", "miércoles", "viernes"],
+  "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
+  "imagen": "https://example.com/deportes.jpg",
+  "inmediato": false
+},
+{
+  "id": 9106,
+  "nombre": "🟡 EN VIVO – Pachatusan Noticias – Edición Sabatina",
+  "inicio": "18:00",
+  "fin": "19:30",
+  "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
+  "imagen": "https://example.com/sabatina.jpg",
+  "inmediato": true
+},
+
+{
+  "id": 9107,
+  "nombre": "💜 Mujer, Voz y Acción",
+  "inicio": "16:00",
+  "fin": "17:00",
+  "dias": ["sábado"],
+  "descripcion": "Un espacio dedicado a resaltar historias de mujeres, sus logros y desafíos a través de entrevistas y testimonios inspiradores.\n\nConducción:\n🎙 Yovana Flores\n🎙 Frida Ugarte",
+  "imagen": "https://example.com/mujer.jpg",
+  "inmediato": false
+},
+{
+  "id": 9108,
+  "nombre": "📰 Pulso Semanal",
+  "inicio": "20:00",
+  "fin": "21:00",
+  "dias": ["domingo"],
+  "descripcion": "Un análisis completo de los hechos más relevantes de la semana: noticias, entrevistas y opinión con enfoque claro y directo.\n\nConducción:\n🎙 Jorge Huillca Soto",
+  "imagen": "https://example.com/pulso.jpg",
+  "inmediato": false
+},
+{
+  "id": 9109,
+  "nombre": "📘 Avance Educativo",
+  "inicio": "08:00",
+  "fin": "09:00",
+  "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
+  "descripcion": "Información y análisis del sector educativo: avances, entrevistas y novedades de la realidad académica.\n\nConducción:\n🎙 Jorge Huillca Soto",
+  "imagen": "https://example.com/educativo.jpg",
+  "inmediato": false
+},
+{
+  "id": 9110,
+  "nombre": "📢 La Voz de Canas – Noticias",
+  "inicio": "17:00",
+  "fin": "18:00",
+  "dias": ["domingo"],
+  "descripcion": "Cobertura de los hechos más relevantes de la provincia de Canas, con entrevistas, reportes y análisis informativo.\n\nConducción:\n🎙 Guido Conde Lozano",
+  "imagen": "https://example.com/canas.jpg",
+  "inmediato": false
+}
+
 ]

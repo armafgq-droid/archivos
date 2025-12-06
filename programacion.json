@@ -32,7 +32,7 @@
   "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
   "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/medio dia.png",
-  "inmediato": true,
+  "inmediato": false,
   "listar": true
 
 },
@@ -44,7 +44,7 @@
   "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
   "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
-  "inmediato": true,
+  "inmediato": false,
   "listar": true
 
 },
@@ -56,7 +56,7 @@
   "dias": ["sábado"],
   "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",
-  "inmediato": true,
+  "inmediato": false,
   "listar": true
 
 },
@@ -69,7 +69,7 @@
   "dias": ["sábado"],
   "descripcion": "Un espacio dedicado a resaltar historias de mujeres, sus logros y desafíos a través de entrevistas y testimonios inspiradores.\n\nConducción:\n🎙 Yovana Flores\n🎙 Frida Ugarte",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/vozmujer.png",
-  "inmediato": true,
+  "inmediato": false,
     "listar": true
 
 },
@@ -81,7 +81,7 @@
   "dias": ["domingo"],
   "descripcion": "Un análisis completo de los hechos más relevantes de la semana: noticias, entrevistas y opinión con enfoque claro y directo.\n\nConducción:\n🎙 Jorge Huillca Soto",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/pulsosemanal.png",
-  "inmediato": true,
+  "inmediato": false,
   "listar": true
 },
 {

@@ -1,14 +1,15 @@
 [
-  {
-    "id": 9102,
-    "nombre": "Noticias Matutinas",
-    "inicio": "10:00",
-    "fin": "10:05",
-    "dias": ["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
-    "descripcion": "Noticias y reportajes para empezar el día bien informado.",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
-    "inmediato": false
-  },
+{
+  "id": 9102,
+  "nombre": "𝐄𝐧 𝐕𝐢𝐯𝐨 🎥 Pachatusan Noticias – Edición Central",
+  "inicio": "06:00",
+  "fin": "09:30",
+  "dias": ["lunes","martes","miércoles","jueves","viernes"],
+  "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\nCon la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
+  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LJAPuONnDlY-_KjiV8ZEHub5T34UaNzX34EeujpHFrLSsZUivs62g6pTDR6enSwShxE",
+  "inmediato": false
+},
+
   {
     "id": 9103,
     "nombre": "Actualidad Express",

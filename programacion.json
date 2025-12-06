@@ -41,7 +41,7 @@
   "nombre": "🟢 EN VIVO – Pachatusan Deportes",
   "inicio": "17:00",
   "fin": "18:00",
-  "dias": ["lunes", "miércoles", "viernes"],
+  "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
   "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
   "inmediato": true

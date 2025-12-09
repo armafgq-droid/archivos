@@ -7,16 +7,6 @@
   "dias": ["lunes","martes","miércoles","jueves","viernes"],
   "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\nCon la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
-  "inmediato": false
-},
-  {
-  "id": 9102,
-  "nombre": "𝐄𝐧 𝐕𝐢𝐯𝐨 🎥 Pachatusan Noticias – Edición Central",
-  "inicio": "14:12",
-  "fin": "09:30",
-  "dias": ["lunes","martes","miércoles","jueves","viernes"],
-  "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\nCon la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
-  "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
   "inmediato": false,
   "listar": true
 },
@@ -28,7 +18,8 @@
   "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
   "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/medio dia.png",
-  "inmediato": false
+  "inmediato": false,
+  "listar": true
 },
 {
   "id": 9105,
@@ -49,7 +40,8 @@
   "dias": ["lunes","martes","miércoles","jueves","viernes"],
   "descripcion": "Sintoniza nuestra edición nocturna de Pachatusan Noticias, un espacio informativo con el análisis más destacado del día, reportes actualizados y una visión completa de los acontecimientos más relevantes.\n\nCon la conducción de:\n🎙 Saúl Mamani\n🎙 Olmer Camilo Quispe",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/nocturna.png",
-  "inmediato": false
+  "inmediato": false,
+  "listar": true
 },
 
 {
@@ -60,7 +52,8 @@
   "dias": ["sábado"],
   "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",
-  "inmediato": false
+  "inmediato": false,
+  "listar": true
 },
 
 {
@@ -71,7 +64,8 @@
   "dias": ["sábado"],
   "descripcion": "Un espacio dedicado a resaltar historias de mujeres, sus logros y desafíos a través de entrevistas y testimonios inspiradores.\n\nConducción:\n🎙 Yovana Flores\n🎙 Frida Ugarte",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/vozmujer.png",
-  "inmediato": false
+  "inmediato": false,
+  "listar": true
 },
 {
   "id": 9108,

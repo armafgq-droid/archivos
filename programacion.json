@@ -2,13 +2,12 @@
 {
   "id": 9102,
   "nombre": "𝐄𝐧 𝐕𝐢𝐯𝐨 🎥 Pachatusan Noticias – Edición Central",
-  "inicio": "06:00",
+  "inicio": "21:18",
   "fin": "09:30",
   "dias": ["lunes","martes","miércoles","jueves","viernes"],
   "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\nCon la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
   "inmediato": false,
-
 },
 {
   "id": 9103,

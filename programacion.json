@@ -7,8 +7,7 @@
   "dias": ["lunes","martes","miércoles","jueves","viernes"],
   "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\nCon la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
-  "inmediato": true,
-  "listar":true
+  "inmediato": false,
 
 },
 {
@@ -20,8 +19,6 @@
   "descripcion": "Sintoniza nuestra edición nocturna de Pachatusan Noticias, un espacio informativo con el análisis más destacado del día, reportes actualizados y una visión completa de los acontecimientos más relevantes.\n\nCon la conducción de:\n🎙 Saúl Mamani\n🎙 Olmer Camilo Quispe",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/nocturna.png",
   "inmediato": false,
-  "listar": true
-
 },
 
 {

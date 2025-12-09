@@ -2,12 +2,33 @@
 {
   "id": 9102,
   "nombre": "𝐄𝐧 𝐕𝐢𝐯𝐨 🎥 Pachatusan Noticias – Edición Central",
-  "inicio": "15:25",
+  "inicio": "06:00,
   "fin": "09:30",
   "dias": ["lunes","martes","miércoles","jueves","viernes"],
   "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\nCon la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
   "inmediato": false
+},
+{
+  "id": 9104,
+  "nombre": "🔴 EN VIVO – Pachatusan Noticias – Edición del Mediodía",
+  "inicio": "12:00",
+  "fin": "14:00",
+  "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
+  "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
+  "imagen": "https://trasmision.infinityfreeapp.com/programas/medio dia.png",
+  "inmediato": false
+},
+{
+  "id": 9105,
+  "nombre": "🟢 EN VIVO – Pachatusan Deportes",
+  "inicio": "17:00",
+  "fin": "18:00",
+  "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
+  "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
+  "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
+  "inmediato": false,
+  "listar": true
 },
 {
   "id": 9103,
@@ -21,30 +42,6 @@
 },
 
 {
-  "id": 9104,
-  "nombre": "🔴 EN VIVO – Pachatusan Noticias – Edición del Mediodía",
-  "inicio": "12:00",
-  "fin": "14:00",
-  "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
-  "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
-  "imagen": "https://trasmision.infinityfreeapp.com/programas/medio dia.png",
-  "inmediato": false,
-  "listar": true
-
-},
-{
-  "id": 9105,
-  "nombre": "🟢 EN VIVO – Pachatusan Deportes",
-  "inicio": "17:00",
-  "fin": "18:00",
-  "dias": ["lunes", "martes", "miércoles", "jueves", "viernes"],
-  "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
-  "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
-  "inmediato": false,
-  "listar": true
-
-},
-{
   "id": 9106,
   "nombre": "🟡 EN VIVO – Pachatusan Noticias – Edición Sabatina",
   "inicio": "18:00",
@@ -52,9 +49,7 @@
   "dias": ["sábado"],
   "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",
-  "inmediato": false,
-  "listar": true
-
+  "inmediato": false
 },
 
 {
@@ -65,9 +60,7 @@
   "dias": ["sábado"],
   "descripcion": "Un espacio dedicado a resaltar historias de mujeres, sus logros y desafíos a través de entrevistas y testimonios inspiradores.\n\nConducción:\n🎙 Yovana Flores\n🎙 Frida Ugarte",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/vozmujer.png",
-  "inmediato": false,
-    "listar": true
-
+  "inmediato": false
 },
 {
   "id": 9108,

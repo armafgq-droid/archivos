@@ -8,7 +8,8 @@
   "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\nCon la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
   "inmediato": true,
-  "listar": true
+  "listar": true,
+  "notificar": true
 },
 {
   "id": 9104,
@@ -19,7 +20,8 @@
   "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/medio dia.png",
   "inmediato": false,
-  "listar": true
+  "listar": true,
+  "notificar": true
 },
 {
   "id": 9105,
@@ -30,7 +32,8 @@
   "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
   "inmediato": false,
-  "listar": true
+  "listar": true,
+  "notificar": true
 },
 {
   "id": 9103,
@@ -41,7 +44,8 @@
   "descripcion": "Sintoniza nuestra edición nocturna de Pachatusan Noticias, un espacio informativo con el análisis más destacado del día, reportes actualizados y una visión completa de los acontecimientos más relevantes.\n\nCon la conducción de:\n🎙 Saúl Mamani\n🎙 Olmer Camilo Quispe",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/nocturna.png",
   "inmediato": false,
-  "listar": true
+  "listar": true,
+  "notificar": true
 },
 
 {
@@ -53,7 +57,9 @@
   "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",
   "inmediato": false,
-  "listar": true
+  "listar": true,
+  "notificar": true
+
 },
 
 {
@@ -65,7 +71,8 @@
   "descripcion": "Un espacio dedicado a resaltar historias de mujeres, sus logros y desafíos a través de entrevistas y testimonios inspiradores.\n\nConducción:\n🎙 Yovana Flores\n🎙 Frida Ugarte",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/vozmujer.png",
   "inmediato": false,
-  "listar": true
+  "listar": true,
+  "notificar": true
 },
 {
   "id": 9108,
@@ -76,7 +83,8 @@
   "descripcion": "Un análisis completo de los hechos más relevantes de la semana: noticias, entrevistas y opinión con enfoque claro y directo.\n\nConducción:\n🎙 Jorge Huillca Soto",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/pulsosemanal.png",
   "inmediato": false,
-  "listar": true
+  "listar": true,
+  "notificar": true
 },
 {
   "id": 9109,
@@ -87,8 +95,8 @@
   "descripcion": "Información y análisis del sector educativo: avances, entrevistas y novedades de la realidad académica.\n\nConducción:\n🎙 Jorge Huillca Soto",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/avanceeducativo.png",
   "inmediato": false,
-  "listar": true
-
+  "listar": true,
+  "notificar": true
 },
 {
   "id": 9110,
@@ -102,5 +110,4 @@
     "listar": true
 
 }
-
 ]

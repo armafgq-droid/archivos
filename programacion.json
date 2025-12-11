@@ -5,9 +5,9 @@
   "inicio": "06:00",
   "fin": "09:30",
   "dias": ["lunes","martes","miércoles","jueves","viernes"],
-  "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\nCon la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
+  "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\n Con la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
-  "inmediato": true,
+  "inmediato": false,
   "listar": true,
   "notificar": true
 },

@@ -51,8 +51,8 @@
 {
   "id": 1,
   "nombre": "🟡 EN VIVO – Pachatusan Noticias – Edición Sabatina",
-  "inicio": "18:00",
-  "fin": "19:30",
+  "inicio": "06:00",
+  "fin": "09:30",
   "dias": ["sábado"],
   "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",

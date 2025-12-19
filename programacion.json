@@ -282,19 +282,5 @@
         "inmediato": false,
         "listar": false,
         "notificar": true
-    },
-    {
-        "id": 100,
-        "nombre": "📢 La Voz de Canas – Noticias",
-        "inicio": "17:00",
-        "fin": "18:00",
-        "dias": [
-            "domingo"
-        ],
-        "descripcion": "Cobertura de los hechos más relevantes de la provincia de Canas, con entrevistas, reportes y análisis informativo.\n\nConducción:\n🎙 Guido Conde Lozano",
-        "imagen": "https://trasmision.infinityfreeapp.com/programas/lavozdecanas.png",
-        "inmediato": true,
-        "listar": false,
-        "notificar": true
     }
 ]

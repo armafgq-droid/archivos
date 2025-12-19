@@ -311,7 +311,7 @@
         ],
         "descripcion": "Cobertura de los hechos más relevantes de la provincia de Canas, con entrevistas, reportes y análisis informativo.\n\nConducción:\n🎙 Guido Conde Lozano",
         "imagen": "https://trasmision.infinityfreeapp.com/programas/lavozdecanas.png",
-        "inmediato": true,
+        "inmediato": false,
         "listar": false,
         "notificar": true
     }

@@ -9,7 +9,7 @@
   "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
   "inmediato": false,
   "listar": true,
-  "notificar": true
+  "notificar": false
 },
   {
   "id": 1,
@@ -33,7 +33,7 @@
   "imagen": "https://trasmision.infinityfreeapp.com/programas/medio dia.png",
   "inmediato": false,
   "listar": true,
-  "notificar": true
+  "notificar": false
 },
   {
   "id": 1,
@@ -57,7 +57,7 @@
   "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
   "inmediato": false,
   "listar": true,
-  "notificar": true
+  "notificar": false
 },
   {
   "id": 1,
@@ -81,7 +81,7 @@
   "imagen": "https://trasmision.infinityfreeapp.com/programas/nocturna.png",
   "inmediato": false,
   "listar": true,
-  "notificar": true
+  "notificar": false
 },
 {
   "id": 1,
@@ -105,7 +105,7 @@
   "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",
   "inmediato": false,
   "listar": true,
-  "notificar": true
+  "notificar": false
 
 },
   {
@@ -132,7 +132,7 @@
   "imagen": "https://trasmision.infinityfreeapp.com/programas/vozmujer.png",
   "inmediato": false,
   "listar": true,
-  "notificar": true
+  "notificar": false
 },
   {
   "id": 1,
@@ -156,7 +156,7 @@
   "imagen": "https://trasmision.infinityfreeapp.com/programas/pulsosemanal.png",
   "inmediato": false,
   "listar": true,
-  "notificar": true
+  "notificar": false
 },
   {
   "id": 1,
@@ -180,7 +180,7 @@
   "imagen": "https://trasmision.infinityfreeapp.com/programas/avanceeducativo.png",
   "inmediato": false,
   "listar": true,
-  "notificar": true
+  "notificar": false
 },
   {
   "id": 1,
@@ -203,7 +203,8 @@
   "descripcion": "Cobertura de los hechos más relevantes de la provincia de Canas, con entrevistas, reportes y análisis informativo.\n\nConducción:\n🎙 Guido Conde Lozano",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/lavozdecanas.png",
   "inmediato": false,
-  "listar": true
+  "listar": true,
+  "notificar": false
 },
   {
   "id": 1,
@@ -214,6 +215,7 @@
   "descripcion": "Cobertura de los hechos más relevantes de la provincia de Canas, con entrevistas, reportes y análisis informativo.\n\nConducción:\n🎙 Guido Conde Lozano",
   "imagen": "https://trasmision.infinityfreeapp.com/programas/lavozdecanas.png",
   "inmediato": false,
-  "listar": true
+  "listar": false,
+  "notificar": true
 }
 ]

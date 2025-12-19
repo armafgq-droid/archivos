@@ -36,6 +36,24 @@
         "notificar": true
     },
     {
+        "id": 1766187882667,
+        "nombre": "Candy Candy",
+        "inicio": "10:00",
+        "fin": "10:20",
+        "dias": [
+            "lunes",
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes"
+        ],
+        "descripcion": "Candy Candy es un icónico manga y anime japonés de romance y drama que cuenta la historia de Candice White, una huérfana alegre y rebelde que enfrenta una vida de adversidades, amores complejos (Anthony, Terry) y desafíos, siendo un clásico muy querido en Latinoamérica",
+        "imagen": "https://trasmision.infinityfreeapp.com/pachatusan/apppage/img/images.jpg",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
         "id": 2,
         "nombre": "🔴 EN VIVO – Pachatusan Noticias – Edición del Mediodía",
         "inicio": "12:00",

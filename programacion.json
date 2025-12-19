@@ -295,6 +295,6 @@
     "imagen": "https://trasmision.infinityfreeapp.com/programas/lavozdecanas.png",
     "inmediato": true,
     "listar": false,
-    "notificar": false
+    "notificar": true
   }
 ]

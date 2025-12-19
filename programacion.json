@@ -296,21 +296,5 @@
         "inmediato": true,
         "listar": false,
         "notificar": true
-    },
-    {
-        "id": 1766182979901,
-        "nombre": "prueba 69",
-        "inicio": "12:12",
-        "fin": "12:12",
-        "dias": [
-            "lunes",
-            "martes",
-            "miércoles"
-        ],
-        "descripcion": "pero la querias tanto gaaa \nf",
-        "imagen": "",
-        "inmediato": false,
-        "listar": false,
-        "notificar": true
     }
 ]

@@ -282,39 +282,6 @@
         "inmediato": false,
         "listar": false,
         "notificar": true
-    },
-    {
-        "id": 1766192552930,
-        "nombre": "prueba23",
-        "inicio": "12:12",
-        "fin": "12:12",
-        "dias": [
-            "lunes",
-            "martes",
-            "miércoles",
-            "jueves"
-        ],
-        "descripcion": "dia",
-        "imagen": "",
-        "inmediato": false,
-        "listar": false,
-        "notificar": false
-    },
-    {
-        "id": 1766192660286,
-        "nombre": "prueba23",
-        "inicio": "12:12",
-        "fin": "12:12",
-        "dias": [
-            "lunes",
-            "martes",
-            "miércoles",
-            "jueves"
-        ],
-        "descripcion": "dia",
-        "imagen": "",
-        "inmediato": false,
-        "listar": false,
-        "notificar": false
     }
+
 ]

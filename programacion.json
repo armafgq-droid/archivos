@@ -316,21 +316,5 @@
         "inmediato": false,
         "listar": false,
         "notificar": false
-    },
-    {
-        "id": 100,
-        "nombre": "190",
-        "inicio": "12:12",
-        "fin": "11:11",
-        "dias": [
-            "lunes",
-            "martes",
-            "miércoles"
-        ],
-        "descripcion": "asdasdasd",
-        "imagen": "",
-        "inmediato": false,
-        "listar": false,
-        "notificar": true
     }
 ]

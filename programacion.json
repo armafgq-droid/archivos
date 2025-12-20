@@ -72,22 +72,6 @@
         "notificar": true
     },
     {
-        "id": 1766195774891,
-        "nombre": "190",
-        "inicio": "12:12",
-        "fin": "11:11",
-        "dias": [
-            "lunes",
-            "martes",
-            "miércoles"
-        ],
-        "descripcion": "asdasdasd",
-        "imagen": "",
-        "inmediato": false,
-        "listar": true,
-        "notificar": false
-    },
-    {
         "id": 3,
         "nombre": "Pachatusan Deportes",
         "inicio": "17:00",

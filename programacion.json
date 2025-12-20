@@ -334,5 +334,19 @@
         "inmediato": false,
         "listar": false,
         "notificar": false
+    },
+    {
+        "id": 1766192737862,
+        "nombre": "cuates",
+        "inicio": "12:12",
+        "fin": "11:01",
+        "dias": [
+            "lunes"
+        ],
+        "descripcion": "asda",
+        "imagen": "",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
     }
 ]

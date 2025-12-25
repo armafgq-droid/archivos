@@ -1,286 +1,300 @@
 [
-  {
-    "id": 1,
-    "nombre": "Pachatusan Noticias – Edición Central",
-    "inicio": "06:00",
-    "fin": "09:30",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes"
-    ],
-    "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\n Con la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
-    "inmediato": false,
-    "listar": true,
-    "notificar": false
-  },
-  {
-    "id": 100,
-    "nombre": "🎥𝐄𝐧 𝐕𝐢𝐯𝐨 🎥 Pachatusan Noticias – Edición Centrall",
-    "inicio": "06:00",
-    "fin": "09:30",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes"
-    ],
-    "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\n Con la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
-    "inmediato": false,
-    "listar": false,
-    "notificar": true
-  },
-  {
-    "id": 2,
-    "nombre": "Pachatusan Noticias – Edición del Mediodía",
-    "inicio": "12:00",
-    "fin": "14:00",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes"
-    ],
-    "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
-    "imagen": "https://trasmision.infinityfreeapp.com/pachatusan/apppage/img/medio dia.png",
-    "inmediato": false,
-    "listar": true,
-    "notificar": false
-  },
-  {
-    "id": 100,
-    "nombre": "🔴 EN VIVO – Pachatusan Noticias – Edición del Mediodía",
-    "inicio": "12:00",
-    "fin": "14:00",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes"
-    ],
-    "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/medio dia.png",
-    "inmediato": false,
-    "listar": false,
-    "notificar": true
-  },
-  {
-    "id": 3,
-    "nombre": "Pachatusan Deportes",
-    "inicio": "17:00",
-    "fin": "18:00",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes"
-    ],
-    "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
-    "inmediato": false,
-    "listar": true,
-    "notificar": false
-  },
-  {
-    "id": 100,
-    "nombre": "🟢 EN VIVO – Pachatusan Deportes",
-    "inicio": "17:00",
-    "fin": "18:00",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes"
-    ],
-    "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
-    "inmediato": false,
-    "listar": false,
-    "notificar": true
-  },
-  {
-    "id": 4,
-    "nombre": "Pachatusan Noticias – Edición Nocturna",
-    "inicio": "18:00",
-    "fin": "20:00",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes"
-    ],
-    "descripcion": "Sintoniza nuestra edición nocturna de Pachatusan Noticias, un espacio informativo con el análisis más destacado del día, reportes actualizados y una visión completa de los acontecimientos más relevantes.\n\nCon la conducción de:\n🎙 Saúl Mamani\n🎙 Olmer Camilo Quispe",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/nocturna.png",
-    "inmediato": false,
-    "listar": true,
-    "notificar": false
-  },
-  {
-    "id": 100,
-    "nombre": "🔴 EN VIVO – Pachatusan Noticias – Edición Nocturna",
-    "inicio": "18:00",
-    "fin": "20:00",
-    "dias": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes"
-    ],
-    "descripcion": "Sintoniza nuestra edición nocturna de Pachatusan Noticias, un espacio informativo con el análisis más destacado del día, reportes actualizados y una visión completa de los acontecimientos más relevantes.\n\nCon la conducción de:\n🎙 Saúl Mamani\n🎙 Olmer Camilo Quispe",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/nocturna.png",
-    "inmediato": false,
-    "listar": false,
-    "notificar": true
-  },
-  {
-    "id": 5,
-    "nombre": "Pachatusan Noticias – Edición Sabatina",
-    "inicio": "06:00",
-    "fin": "09:30",
-    "dias": [
-      "sábado"
-    ],
-    "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",
-    "inmediato": false,
-    "listar": true,
-    "notificar": false
-  },
-  {
-    "id": 100,
-    "nombre": "🟡 EN VIVO – Pachatusan Noticias – Edición Sabatina",
-    "inicio": "06:00",
-    "fin": "09:30",
-    "dias": [
-      "sábado"
-    ],
-    "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",
-    "inmediato": false,
-    "listar": false,
-    "notificar": true
-  },
-  {
-    "id": 6,
-    "nombre": "💜 Mujer, Voz y Acción",
-    "inicio": "09:00",
-    "fin": "10:00",
-    "dias": [
-      "sábado"
-    ],
-    "descripcion": "Un espacio dedicado a resaltar historias de mujeres, sus logros y desafíos a través de entrevistas y testimonios inspiradores.\n\nConducción:\n🎙 Yovana Flores\n🎙 Frida Ugarte",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/vozmujer.png",
-    "inmediato": false,
-    "listar": true,
-    "notificar": false
-  },
-  {
-    "id": 100,
-    "nombre": "💜 Mujer, Voz y Acción",
-    "inicio": "09:00",
-    "fin": "10:00",
-    "dias": [
-      "sábado"
-    ],
-    "descripcion": "Un espacio dedicado a resaltar historias de mujeres, sus logros y desafíos a través de entrevistas y testimonios inspiradores.\n\nConducción:\n🎙 Yovana Flores\n🎙 Frida Ugarte",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/vozmujer.png",
-    "inmediato": false,
-    "listar": false,
-    "notificar": true
-  },
-  {
-    "id": 7,
-    "nombre": "📰 Pulso Semanal",
-    "inicio": "06:00",
-    "fin": "08:00",
-    "dias": [
-      "domingo"
-    ],
-    "descripcion": "Un análisis completo de los hechos más relevantes de la semana: noticias, entrevistas y opinión con enfoque claro y directo.\n\nConducción:\n🎙 Jorge Huillca Soto",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/pulsosemanal.png",
-    "inmediato": false,
-    "listar": true,
-    "notificar": false
-  },
-  {
-    "id": 100,
-    "nombre": "📰 Pulso Semanal",
-    "inicio": "06:00",
-    "fin": "08:00",
-    "dias": [
-      "domingo"
-    ],
-    "descripcion": "Un análisis completo de los hechos más relevantes de la semana: noticias, entrevistas y opinión con enfoque claro y directo.\n\nConducción:\n🎙 Jorge Huillca Soto",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/pulsosemanal.png",
-    "inmediato": false,
-    "listar": false,
-    "notificar": true
-  },
-  {
-    "id": 8,
-    "nombre": "📘 Avance Educativo",
-    "inicio": "08:00",
-    "fin": "09:00",
-    "dias": [
-      "domingo"
-    ],
-    "descripcion": "Información y análisis del sector educativo: avances, entrevistas y novedades de la realidad académica.\n\nConducción:\n🎙 Jorge Huillca Soto",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/avanceeducativo.png",
-    "inmediato": false,
-    "listar": true,
-    "notificar": false
-  },
-  {
-    "id": 100,
-    "nombre": "📘 Avance Educativo",
-    "inicio": "08:00",
-    "fin": "09:00",
-    "dias": [
-      "domingo"
-    ],
-    "descripcion": "Información y análisis del sector educativo: avances, entrevistas y novedades de la realidad académica.\n\nConducción:\n🎙 Jorge Huillca Soto",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/avanceeducativo.png",
-    "inmediato": false,
-    "listar": false,
-    "notificar": true
-  },
-  {
-    "id": 9,
-    "nombre": "📢 La Voz de Canas – Noticias",
-    "inicio": "17:00",
-    "fin": "18:00",
-    "dias": [
-      "domingo"
-    ],
-    "descripcion": "Cobertura de los hechos más relevantes de la provincia de Canas, con entrevistas, reportes y análisis informativo.\n\nConducción:\n🎙 Guido Conde Lozano",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/lavozdecanas.png",
-    "inmediato": false,
-    "listar": true,
-    "notificar": false
-  },
-  {
-    "id": 100,
-    "nombre": "📢 La Voz de Canas – Noticias",
-    "inicio": "17:00",
-    "fin": "18:00",
-    "dias": [
-      "domingo"
-    ],
-    "descripcion": "Cobertura de los hechos más relevantes de la provincia de Canas, con entrevistas, reportes y análisis informativo.\n\nConducción:\n🎙 Guido Conde Lozano",
-    "imagen": "https://trasmision.infinityfreeapp.com/programas/lavozdecanas.png",
-    "inmediato": false,
-    "listar": false,
-    "notificar": true
-  }
+    {
+        "id": 1,
+        "nombre": "Pachatusan Noticias – Edición Central",
+        "inicio": "06:00",
+        "fin": "09:30",
+        "dias": [
+            "lunes",
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes"
+        ],
+        "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\n Con la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
+        "id": 100,
+        "nombre": "🎥𝐄𝐧 𝐕𝐢𝐯𝐨 🎥 Pachatusan Noticias – Edición Centrall",
+        "inicio": "06:00",
+        "fin": "09:30",
+        "dias": [
+            "lunes",
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes"
+        ],
+        "descripcion": "Acompáñanos en nuestra edición central de Pachatusan Noticias, donde te presentamos la información más relevante del día con un enfoque claro, preciso y oportuno.\n\n Con la conducción de:\n🎙 Lucho Mamani Huillca\n🎙 Arturo Aranibar Neira",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/central.png",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    },
+    {
+        "id": 2,
+        "nombre": "Pachatusan Noticias – Edición del Mediodía",
+        "inicio": "12:00",
+        "fin": "14:00",
+        "dias": [
+            "lunes",
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes"
+        ],
+        "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
+        "imagen": "https://trasmision.infinityfreeapp.com/pachatusan/apppage/img/medio dia.png",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
+        "id": 100,
+        "nombre": "🔴 EN VIVO – Pachatusan Noticias – Edición del Mediodía",
+        "inicio": "12:00",
+        "fin": "14:00",
+        "dias": [
+            "lunes",
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes"
+        ],
+        "descripcion": "Infórmate con nuestro resumen de la jornada, entrevistas destacadas y reportes actualizados sobre los hechos más relevantes del día.\n\nConducido por:\n🎙 Lucho Mamani Huillca",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/medio dia.png",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    },
+    {
+        "id": 3,
+        "nombre": "Pachatusan Deportes",
+        "inicio": "17:00",
+        "fin": "18:00",
+        "dias": [
+            "lunes",
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes"
+        ],
+        "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
+        "id": 100,
+        "nombre": "🟢 EN VIVO – Pachatusan Deportes",
+        "inicio": "17:00",
+        "fin": "18:00",
+        "dias": [
+            "lunes",
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes"
+        ],
+        "descripcion": "Un espacio dedicado al análisis deportivo local, nacional e internacional. Resultados, entrevistas y comentarios con la mejor información del mundo del deporte.\n\nConducido por:\n🎙 Prof. Justiniano Araoz\n🎙 Roger Carrasco\n🎙 Alfredo Taparaco",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/deportes.png",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    },
+    {
+        "id": 4,
+        "nombre": "Pachatusan Noticias – Edición Nocturna",
+        "inicio": "18:00",
+        "fin": "20:00",
+        "dias": [
+            "lunes",
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes"
+        ],
+        "descripcion": "Sintoniza nuestra edición nocturna de Pachatusan Noticias, un espacio informativo con el análisis más destacado del día, reportes actualizados y una visión completa de los acontecimientos más relevantes.\n\nCon la conducción de:\n🎙 Saúl Mamani\n🎙 Olmer Camilo Quispe",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/nocturna.png",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
+        "id": 100,
+        "nombre": "🔴 EN VIVO – Pachatusan Noticias – Edición Nocturna",
+        "inicio": "18:00",
+        "fin": "20:00",
+        "dias": [
+            "lunes",
+            "martes",
+            "miércoles",
+            "jueves",
+            "viernes"
+        ],
+        "descripcion": "Sintoniza nuestra edición nocturna de Pachatusan Noticias, un espacio informativo con el análisis más destacado del día, reportes actualizados y una visión completa de los acontecimientos más relevantes.\n\nCon la conducción de:\n🎙 Saúl Mamani\n🎙 Olmer Camilo Quispe",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/nocturna.png",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    },
+    {
+        "id": 5,
+        "nombre": "Pachatusan Noticias – Edición Sabatina",
+        "inicio": "06:00",
+        "fin": "09:30",
+        "dias": [
+            "sábado"
+        ],
+        "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
+        "id": 100,
+        "nombre": "🟡 EN VIVO – Pachatusan Noticias – Edición Sabatina",
+        "inicio": "06:00",
+        "fin": "09:30",
+        "dias": [
+            "sábado"
+        ],
+        "descripcion": "Edición especial de fin de semana con el resumen más destacado de la actualidad, entrevistas exclusivas y análisis informativo.\n\nConducido por:\n🎙 Amílcar Cuellar\n🎙 Jorge Huillca",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/edicionsabatina.png",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    },
+    {
+        "id": 6,
+        "nombre": "💜 Mujer, Voz y Acción",
+        "inicio": "09:00",
+        "fin": "10:00",
+        "dias": [
+            "sábado"
+        ],
+        "descripcion": "Un espacio dedicado a resaltar historias de mujeres, sus logros y desafíos a través de entrevistas y testimonios inspiradores.\n\nConducción:\n🎙 Yovana Flores\n🎙 Frida Ugarte",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/vozmujer.png",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
+        "id": 100,
+        "nombre": "💜 Mujer, Voz y Acción",
+        "inicio": "09:00",
+        "fin": "10:00",
+        "dias": [
+            "sábado"
+        ],
+        "descripcion": "Un espacio dedicado a resaltar historias de mujeres, sus logros y desafíos a través de entrevistas y testimonios inspiradores.\n\nConducción:\n🎙 Yovana Flores\n🎙 Frida Ugarte",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/vozmujer.png",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    },
+    {
+        "id": 7,
+        "nombre": "📰 Pulso Semanal",
+        "inicio": "06:00",
+        "fin": "08:00",
+        "dias": [
+            "domingo"
+        ],
+        "descripcion": "Un análisis completo de los hechos más relevantes de la semana: noticias, entrevistas y opinión con enfoque claro y directo.\n\nConducción:\n🎙 Jorge Huillca Soto",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/pulsosemanal.png",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
+        "id": 100,
+        "nombre": "📰 Pulso Semanal",
+        "inicio": "06:00",
+        "fin": "08:00",
+        "dias": [
+            "domingo"
+        ],
+        "descripcion": "Un análisis completo de los hechos más relevantes de la semana: noticias, entrevistas y opinión con enfoque claro y directo.\n\nConducción:\n🎙 Jorge Huillca Soto",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/pulsosemanal.png",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    },
+    {
+        "id": 8,
+        "nombre": "📘 Avance Educativo",
+        "inicio": "08:00",
+        "fin": "09:00",
+        "dias": [
+            "domingo"
+        ],
+        "descripcion": "Información y análisis del sector educativo: avances, entrevistas y novedades de la realidad académica.\n\nConducción:\n🎙 Jorge Huillca Soto",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/avanceeducativo.png",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
+        "id": 100,
+        "nombre": "📘 Avance Educativo",
+        "inicio": "08:00",
+        "fin": "09:00",
+        "dias": [
+            "domingo"
+        ],
+        "descripcion": "Información y análisis del sector educativo: avances, entrevistas y novedades de la realidad académica.\n\nConducción:\n🎙 Jorge Huillca Soto",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/avanceeducativo.png",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    },
+    {
+        "id": 9,
+        "nombre": "📢 La Voz de Canas – Noticias",
+        "inicio": "17:00",
+        "fin": "18:00",
+        "dias": [
+            "domingo"
+        ],
+        "descripcion": "Cobertura de los hechos más relevantes de la provincia de Canas, con entrevistas, reportes y análisis informativo.\n\nConducción:\n🎙 Guido Conde Lozano",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/lavozdecanas.png",
+        "inmediato": false,
+        "listar": true,
+        "notificar": false
+    },
+    {
+        "id": 100,
+        "nombre": "📢 La Voz de Canas – Noticias",
+        "inicio": "17:00",
+        "fin": "18:00",
+        "dias": [
+            "domingo"
+        ],
+        "descripcion": "Cobertura de los hechos más relevantes de la provincia de Canas, con entrevistas, reportes y análisis informativo.\n\nConducción:\n🎙 Guido Conde Lozano",
+        "imagen": "https://trasmision.infinityfreeapp.com/programas/lavozdecanas.png",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    },
+    {
+        "id": 1766621073064,
+        "nombre": "Feliz navidad !!",
+        "inicio": "23:58",
+        "fin": "23:58",
+        "dias": [
+            "miércoles"
+        ],
+        "descripcion": "Radio Pachatusan te desea una feliz navidad y un próspero año nuevo",
+        "imagen": "",
+        "inmediato": false,
+        "listar": false,
+        "notificar": true
+    }
 ]

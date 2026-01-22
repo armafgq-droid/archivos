@@ -282,19 +282,5 @@
         "inmediato": false,
         "listar": false,
         "notificar": true
-    },
-    {
-        "id": 1766621073064,
-        "nombre": "Feliz navidad !!",
-        "inicio": "23:58",
-        "fin": "23:58",
-        "dias": [
-            "miércoles"
-        ],
-        "descripcion": "Radio Pachatusan te desea una feliz navidad y un próspero año nuevo",
-        "imagen": "",
-        "inmediato": false,
-        "listar": false,
-        "notificar": true
     }
 ]
